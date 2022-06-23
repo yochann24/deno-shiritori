@@ -1,0 +1,11 @@
+body{
+	display:block;
+	padding:30px;
+	color:white;
+	background:linear-gradient(to right, rgba(0,153,255,0.5), rgba(41,12,172,0.7));
+    
+}
+
+.inner{
+    text-align: center;
+  }
